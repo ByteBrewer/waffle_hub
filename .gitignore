@@ -140,3 +140,8 @@ runs/
 *.pt
 *.pth
 debug.py
+
+# custom (oneQuery)
+_datasets
+_scripts
+.tmp
